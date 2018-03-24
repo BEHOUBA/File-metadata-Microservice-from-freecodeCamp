@@ -1,0 +1,18 @@
+body {
+    background: deepskyblue;
+    padding: 30px 35px 10px 35px;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.formField{
+    text-align: center;
+    margin-bottom: 250px;
+}
+
+.footer {
+    text-align: right;
+}
